@@ -1,6 +1,8 @@
 """
-@3N1CM4 ~ 
+@3N1CM4 ~ github.com/linusmaastok
 2021-05-04
+Subido DESPUES de entregada la prueba
+>> Ayuda para los alumnos tutorados 2021
 """
 
 numero = -1
