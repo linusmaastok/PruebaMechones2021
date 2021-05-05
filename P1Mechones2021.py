@@ -34,8 +34,7 @@ while True :
         if i % 2 != 0 : ultdig = aux2 % 10
         if i % 2 == 0 :
             ultdig = (aux2 % 10) * 2
-            if ultdig >= 10 :
-                ultdig = (ultdig % 10) + (ultdig // 10)
+            if ultdig >= 10 : ultdig = (ultdig % 10) + (ultdig // 10)
         aux2 = aux2 // 10
         digitocontrol = digitocontrol + ultdig
 
@@ -63,5 +62,3 @@ if numero2021 == 0: print("No se ingresaron Roles PUCV de la promoción 2021")
 elif numero2021 == 1: print("Se ingresó un Rol PUCV de la promoción 2021")
 else: print("Se ingresaron {} Roles PUCV de la promoción 2021".format(numero2021))
 print("-------------------------------------------------------------------------------------------------------------------")
-
-
