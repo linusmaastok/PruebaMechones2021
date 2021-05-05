@@ -5,7 +5,6 @@ Subido DESPUES de entregada la prueba
 >> Ayuda para los alumnos tutorados 2021
 """
 
-numero = -1
 numerosrolvalidos = 0
 numerosinvalidos = 0
 numero2021 = 0
